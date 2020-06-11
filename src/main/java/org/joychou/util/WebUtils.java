@@ -7,6 +7,7 @@ import java.io.InputStream;
 public class WebUtils {
 
     // Get request body.
+    // This is a test
     public static String getRequestBody(HttpServletRequest request) throws IOException {
         InputStream in = request.getInputStream();
         return convertStreamToString(in);
