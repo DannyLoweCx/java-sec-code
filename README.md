@@ -1,5 +1,4 @@
 # Java Sec Code
-Just a little test for CxFlow
 
 Java sec code is a very powerful and friendly project for learning Java vulnerability code.
 
