@@ -3,7 +3,7 @@ Testing this again!!
 
 Java sec code is a very powerful and friendly project for learning Java vulnerability code and stuff.
 
-Testing to see if CxOD works
+Testing to see if the pull request fires off a scan
 
 [中文文档](https://github.com/JoyChou93/java-sec-code/blob/master/README_zh.md)
 
